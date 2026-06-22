@@ -55,7 +55,7 @@ void dangKyHocSinh() {
     nd.vaiTro = 1;  //Gán vai trò
     dsNguoiDung.them(nd);   //Thêm vào danh sách
     ghiFileNguoiDung();
-    cout << "Dang ky thanh cong.\n";
+    cout << "Đăng ký thành công.\n";
 }
 //Kiểm tra tài khoản đăng nhập
 bool dangNhap(char* username, int& vaiTro) {
