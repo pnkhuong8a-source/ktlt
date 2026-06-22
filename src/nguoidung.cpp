@@ -1,23 +1,3 @@
-/*Đây là module quản lý người dùng (nguoidung.cpp), chịu trách nhiệm:
-Đọc danh sách tài khoản từ file.
-Ghi danh sách tài khoản xuống file.
-Đăng ký học sinh.
-Đăng nhập.
-
-Các kỹ thuật lập trình đã dùng
-1. Xử lý chuỗi C
-strcpy
-strcmp
-strtok
-strlen
-2. Truyền tham chiếu
-int& vaiTro
-3. Kiểm tra tính hợp lệ dữ liệu
-if (!token)
-if (idx != -1)
-4. Template Vector tự cài đặt
-Vector<NguoiDung>
-*/
 #include <iostream>
 #include <cstring>
 #include <cstdio>
