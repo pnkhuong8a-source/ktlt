@@ -1,0 +1,19 @@
+# File thực thi đã biên dịch
+tracnghiem
+tracnghiem.exe
+*.exe
+*.out
+*.o
+
+# File dữ liệu tạm (nếu bạn không muốn public dữ liệu mẫu, có thể giữ lại .txt như mình đã có)
+# Nếu muốn public dữ liệu, hãy bỏ dòng dưới
+# *.txt
+
+# Thư mục build (nếu có)
+build/
+
+# File cấu hình IDE
+.vscode/
+.idea/
+*.suo
+*.user

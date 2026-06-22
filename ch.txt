@@ -1,0 +1,800 @@
+Toán học
+Câu 1: Kết quả của phép tính 2+3×4 là?
+10
+14
+20
+24
+B
+0
+Toán học
+Câu 2: Nghiệm của phương trình x² - 5x + 6 = 0 là?
+2 và 3
+1 và 5
+-2 và 3
+2 và -3
+A
+0
+Toán học
+Câu 3: Đạo hàm của hàm số f(x)=x³ tại x=2 bằng?
+6
+12
+8
+9
+B
+1
+Toán học
+Câu 4: Tích phân ∫₀¹ x dx bằng?
+0
+1
+0.5
+2
+C
+0
+Toán học
+Câu 5: Giá trị của sin(90°) bằng?
+0
+1
+-1
+Vô cùng
+B
+0
+Toán học
+Câu 6: Hình lập phương có thể tích 64 cm³, cạnh của nó dài?
+4 cm
+8 cm
+16 cm
+2 cm
+A
+0
+Toán học
+Câu 7: Số nào là số nguyên tố?
+1
+4
+9
+13
+D
+0
+Toán học
+Câu 8: Log₁₀(1000) bằng?
+1
+2
+3
+10
+C
+0
+Toán học
+Câu 9: Ma trận vuông cấp 2 có bao nhiêu phần tử?
+2
+4
+6
+8
+B
+0
+Toán học
+Câu 10: Chu vi hình tròn bán kính r là?
+πr²
+2πr
+πr
+2πr²
+B
+0
+Vật lý
+Câu 11: Định luật vạn vật hấp dẫn được phát biểu bởi?
+Galileo
+Newton
+Einstein
+Bohr
+B
+0
+Vật lý
+Câu 12: Đơn vị đo cường độ dòng điện là?
+Volt
+Ampere
+Ohm
+Watt
+B
+0
+Vật lý
+Câu 13: Ánh sáng truyền trong chân không với vận tốc?
+3×10⁶ m/s
+3×10⁸ m/s
+3×10¹⁰ m/s
+3×10² m/s
+B
+0
+Vật lý
+Câu 14: Công thức tính động năng của vật khối lượng m, vận tốc v là?
+mv
+½mv²
+mgh
+½mv
+B
+0
+Vật lý
+Câu 15: Sóng điện từ không truyền được trong môi trường nào?
+Chân không
+Không khí
+Kim loại
+Nước
+C
+1
+Vật lý
+Câu 16: Hiện tượng phản xạ toàn phần xảy ra khi?
+Ánh sáng truyền từ môi trường chiết quang kém sang môi trường chiết quang hơn
+Ánh sáng truyền từ môi trường chiết quang hơn sang môi trường chiết quang kém
+Góc tới nhỏ hơn góc giới hạn
+Cả ba đều đúng
+B
+1
+Vật lý
+Câu 17: Lực hướng tâm trong chuyển động tròn đều có hướng?
+Tiếp tuyến với quỹ đạo
+Hướng vào tâm
+Hướng ra ngoài
+Thẳng đứng
+B
+0
+Vật lý
+Câu 18: Pin mặt trời chuyển đổi năng lượng gì thành điện năng?
+Cơ năng
+Nhiệt năng
+Hóa năng
+Quang năng
+D
+0
+Vật lý
+Câu 19: Sóng âm không truyền được trong?
+Chất rắn
+Chất lỏng
+Chân không
+Chất khí
+C
+0
+Vật lý
+Câu 20: Công thức liên hệ giữa U, I, R trong định luật Ohm là?
+U = I/R
+U = I + R
+U = IR
+I = UR
+C
+0
+Hóa học
+Câu 21: Nước có công thức hóa học là?
+CO₂
+H₂O
+NaCl
+H₂SO₄
+B
+0
+Hóa học
+Câu 22: Kim loại nào dẫn điện tốt nhất?
+Đồng
+Bạc
+Vàng
+Nhôm
+B
+0
+Hóa học
+Câu 23: pH của dung dịch trung tính là?
+0
+7
+14
+1
+B
+0
+Hóa học
+Câu 24: Nguyên tố có số hiệu nguyên tử 6 là?
+Nitơ
+Oxi
+Cacbon
+Bo
+C
+0
+Hóa học
+Câu 25: Phản ứng giữa axit và bazơ tạo thành?
+Muối và nước
+Muối và khí
+Nước và khí
+Bazơ và nước
+A
+0
+Hóa học
+Câu 26: Chất nào là oxit bazơ?
+CO₂
+SO₂
+CaO
+NO₂
+C
+0
+Hóa học
+Câu 27: Dung môi phổ biến nhất là?
+Cồn
+Nước
+Xăng
+Dầu
+B
+0
+Hóa học
+Câu 28: Sắt (Fe) có hóa trị mấy trong hợp chất Fe₂O₃?
+I
+II
+III
+IV
+C
+0
+Hóa học
+Câu 29: Khí nào chiếm tỉ lệ lớn nhất trong không khí?
+Oxi
+Cacbonic
+Nitơ
+Hidro
+C
+0
+Hóa học
+Câu 30: Hợp chất hữu cơ nhất thiết chứa nguyên tố?
+Nitơ
+Oxi
+Cacbon
+Lưu huỳnh
+C
+0
+Sinh học
+Câu 31: Đơn vị cấu tạo nên cơ thể sống là?
+Mô
+Cơ quan
+Tế bào
+Hệ cơ quan
+C
+0
+Sinh học
+Câu 32: Loài nào sau đây thuộc lớp thú?
+Cá sấu
+Rắn
+Cá voi
+Rùa
+C
+1
+Sinh học
+Câu 33: Quá trình quang hợp diễn ra ở bộ phận nào của cây?
+Rễ
+Thân
+Lá
+Hoa
+C
+0
+Sinh học
+Câu 34: ADN là viết tắt của?
+Axit đêoxiribonucleic
+Axit ribonucleic
+Protein
+Lipit
+A
+0
+Sinh học
+Câu 35: Bộ phận nào trong tế bào có chức năng hô hấp?
+Nhân
+Lục lạp
+Ti thể
+Ribôxôm
+C
+1
+Sinh học
+Câu 36: Cơ quan hô hấp ở cá là?
+Phổi
+Mang
+Da
+Khí quản
+B
+0
+Sinh học
+Câu 37: Nhóm máu chuyên nhận là?
+A
+B
+AB
+O
+C
+1
+Sinh học
+Câu 38: Vi khuẩn thuộc giới nào?
+Thực vật
+Động vật
+Nấm
+Khởi sinh
+D
+0
+Sinh học
+Câu 39: Hệ sinh thái rừng nhiệt đới có đặc điểm?
+Nhiệt độ thấp
+Đa dạng sinh học cao
+Khí hậu khô
+Ít loài
+B
+0
+Sinh học
+Câu 40: Enzim amilaza trong nước bọt có tác dụng?
+Tiêu hóa chất béo
+Tiêu hóa tinh bột
+Tiêu hóa protein
+Tiêu hóa đường đôi
+B
+0
+Lịch sử
+Câu 41: Nước Việt Nam Dân chủ Cộng hòa thành lập năm?
+1930
+1945
+1954
+1975
+B
+0
+Lịch sử
+Câu 42: Ai là vị vua cuối cùng của triều Nguyễn?
+Gia Long
+Bảo Đại
+Tự Đức
+Khải Định
+B
+0
+Lịch sử
+Câu 43: Chiến tranh thế giới thứ hai kết thúc năm?
+1943
+1945
+1947
+1949
+B
+0
+Lịch sử
+Câu 44: Cách mạng tháng Mười Nga diễn ra năm?
+1905
+1917
+1921
+1941
+B
+0
+Lịch sử
+Câu 45: Nguyễn Ái Quốc ra đi tìm đường cứu nước năm?
+1911
+1917
+1920
+1930
+A
+1
+Lịch sử
+Câu 46: Đế quốc Mỹ ném bom nguyên tử xuống Hiroshima vào năm?
+1943
+1944
+1945
+1946
+C
+0
+Lịch sử
+Câu 47: Ai là tác giả của bản Tuyên ngôn độc lập của nước Mỹ?
+George Washington
+Abraham Lincoln
+Thomas Jefferson
+Benjamin Franklin
+C
+1
+Lịch sử
+Câu 48: Vị vua nào của nhà Trần đã lãnh đạo 2 lần kháng chiến chống Nguyên?
+Trần Thái Tông
+Trần Nhân Tông
+Trần Thánh Tông
+Trần Anh Tông
+B
+1
+Lịch sử
+Câu 49: Tổ chức Liên Hợp Quốc thành lập năm?
+1944
+1945
+1946
+1947
+B
+0
+Lịch sử
+Câu 50: Sự kiện nào đánh dấu chấm hết chế độ phong kiến Việt Nam?
+Khởi nghĩa Yên Thế
+Vua Bảo Đại thoái vị
+Hiệp định Genève
+Chiến thắng Điện Biên Phủ
+B
+0
+Địa lý
+Câu 51: Việt Nam nằm ở khu vực nào của Châu Á?
+Đông Á
+Đông Nam Á
+Nam Á
+Tây Á
+B
+0
+Địa lý
+Câu 52: Sông nào dài nhất thế giới?
+Sông Amazon
+Sông Nile
+Sông Mississippi
+Sông Mekong
+B
+0
+Địa lý
+Câu 53: Dân số Việt Nam hiện nay khoảng?
+50 triệu
+80 triệu
+100 triệu
+120 triệu
+C
+0
+Địa lý
+Câu 54: Hồ nước ngọt lớn nhất Việt Nam là?
+Hồ Tây
+Hồ Ba Bể
+Hồ Trị An
+Hồ Dầu Tiếng
+B
+0
+Địa lý
+Câu 55: Châu lục nào có diện tích lớn nhất?
+Châu Á
+Châu Phi
+Châu Mỹ
+Châu Âu
+A
+0
+Địa lý
+Câu 56: Biển nào tiếp giáp với Việt Nam?
+Biển Đen
+Biển Đỏ
+Biển Đông
+Biển Ả Rập
+C
+0
+Địa lý
+Câu 57: Thủ đô của Australia là?
+Sydney
+Melbourne
+Canberra
+Perth
+C
+0
+Địa lý
+Câu 58: Dãy núi nào cao nhất thế giới?
+Andes
+Himalaya
+Alps
+Rocky
+B
+0
+Địa lý
+Câu 59: Tỉnh nào ở Việt Nam có diện tích lớn nhất?
+Nghệ An
+Gia Lai
+Thanh Hóa
+Đắk Lắk
+A
+0
+Địa lý
+Câu 60: Đường xích đạo đi qua bao nhiêu quốc gia?
+5
+10
+13
+18
+C
+1
+Ngữ văn
+Câu 61: Tác phẩm "Truyện Kiều" do ai sáng tác?
+Hồ Xuân Hương
+Nguyễn Du
+Nguyễn Đình Chiểu
+Bà Huyện Thanh Quan
+B
+0
+Ngữ văn
+Câu 62: Thành ngữ "Ếch ngồi đáy giếng" chỉ điều gì?
+Kiên trì
+Hiểu biết hạn hẹp
+Nhanh nhẹn
+Thông minh
+B
+0
+Ngữ văn
+Câu 63: Tác giả của bài thơ "Đồng chí" là?
+Tố Hữu
+Chính Hữu
+Xuân Diệu
+Huy Cận
+B
+0
+Ngữ văn
+Câu 64: "Lặng lẽ Sa Pa" là tác phẩm của nhà văn nào?
+Nguyễn Thành Long
+Nguyễn Minh Châu
+Kim Lân
+Nam Cao
+A
+0
+Ngữ văn
+Câu 65: Biện pháp tu từ nào dùng để ví von sự vật này với sự vật khác?
+Nhân hóa
+Ẩn dụ
+Hoán dụ
+So sánh
+D
+0
+Ngữ văn
+Câu 66: Truyện ngắn "Chiếc lược ngà" của tác giả?
+Nguyễn Quang Sáng
+Nguyễn Khải
+Nguyễn Thi
+Nguyễn Trung Thành
+A
+0
+Ngữ văn
+Câu 67: Hình ảnh "đầu súng trăng treo" trong bài thơ Đồng chí mang ý nghĩa?
+Chiến đấu và hòa bình
+Hiện thực và lãng mạn
+Quá khứ và tương lai
+Đất và nước
+B
+0
+Ngữ văn
+Câu 68: Tác phẩm "Số đỏ" là của ai?
+Nam Cao
+Vũ Trọng Phụng
+Ngô Tất Tố
+Nguyễn Công Hoan
+B
+1
+Ngữ văn
+Câu 69: Câu "Nước chảy đá mòn" khuyên điều gì?
+Kiên trì sẽ thành công
+Sống chan hòa
+Yêu thiên nhiên
+Đoàn kết
+A
+0
+Ngữ văn
+Câu 70: Từ "long lanh" thuộc từ loại gì?
+Danh từ
+Động từ
+Tính từ
+Đại từ
+C
+0
+Tiếng Anh
+Câu 71: What does the word "apple" mean in Vietnamese?
+Chuối
+Táo
+Cam
+Nho
+B
+0
+Tiếng Anh
+Câu 72: Choose the correct sentence:
+She don't like coffee.
+She doesn't like coffee.
+She not like coffee.
+She no like coffee.
+B
+0
+Tiếng Anh
+Câu 73: The past tense of "go" is:
+Goed
+Went
+Gone
+Going
+B
+0
+Tiếng Anh
+Câu 74: "Thank you very much" means:
+Xin lỗi
+Cảm ơn rất nhiều
+Tạm biệt
+Chào buổi sáng
+B
+0
+Tiếng Anh
+Câu 75: Which word is an adjective?
+Run
+Quickly
+Beautiful
+Sing
+C
+0
+Tiếng Anh
+Câu 76: How many seasons are there in a year?
+Two
+Three
+Four
+Five
+C
+0
+Tiếng Anh
+Câu 77: "I have been learning English for 5 years" is in which tense?
+Present perfect
+Past simple
+Present continuous
+Future
+A
+1
+Tiếng Anh
+Câu 78: Plural of "child" is?
+Childs
+Childes
+Children
+Child
+C
+0
+Tiếng Anh
+Câu 79: Choose the correct preposition: "He is good ___ math."
+at
+in
+on
+for
+A
+0
+Tiếng Anh
+Câu 80: What color is the sky on a clear day?
+Red
+Green
+Blue
+Yellow
+C
+0
+Tin học
+Câu 81: HTML là viết tắt của?
+HyperText Markup Language
+High Tech Modern Language
+Hyper Transfer Model Language
+Home Tool Markup Language
+A
+0
+Tin học
+Câu 82: 1 kilobyte bằng bao nhiêu byte?
+100
+512
+1000
+1024
+D
+0
+Tin học
+Câu 83: Ngôn ngữ nào được dùng để truy vấn cơ sở dữ liệu?
+Python
+SQL
+Java
+C++
+B
+0
+Tin học
+Câu 84: Hệ điều hành nào là mã nguồn mở?
+Windows
+macOS
+Linux
+iOS
+C
+0
+Tin học
+Câu 85: Trong Excel, hàm AVERAGE dùng để?
+Đếm
+Tính tổng
+Tính trung bình
+Tìm giá trị lớn nhất
+C
+0
+Tin học
+Câu 86: Phím tắt Ctrl+S thường dùng để?
+Mở file
+Lưu file
+In
+Đóng file
+B
+0
+Tin học
+Câu 87: Internet được phát minh vào khoảng những năm?
+1950
+1960
+1970
+1980
+B
+1
+Tin học
+Câu 88: Thiết bị nào là bộ nhớ trong?
+Ổ cứng HDD
+RAM
+USB
+CD-ROM
+B
+0
+Tin học
+Câu 89: Trong C++, để khai báo một số nguyên ta dùng kiểu?
+float
+char
+int
+bool
+C
+0
+Tin học
+Câu 90: Từ khóa "endl" trong C++ có tác dụng?
+Nhập dữ liệu
+Xuống dòng
+Khai báo biến
+Thoát chương trình
+B
+0
+Tổng hợp
+Câu 91: Cây cầu dài nhất Việt Nam hiện nay?
+Cầu Cần Thơ
+Cầu Vàm Cống
+Cầu Mỹ Thuận
+Cầu Nhật Tân
+A
+0
+Tổng hợp
+Câu 92: Giải bóng đá Ngoại hạng Anh thường bắt đầu vào tháng mấy?
+Tháng 6
+Tháng 7
+Tháng 8
+Tháng 9
+C
+1
+Tổng hợp
+Câu 93: Bác Hồ sinh ngày tháng năm nào?
+02/09/1890
+19/05/1890
+19/05/1895
+02/09/1945
+B
+0
+Tổng hợp
+Câu 94: Màu sắc nào không có trong quốc kỳ Việt Nam?
+Đỏ
+Xanh
+Vàng
+Trắng
+B
+0
+Tổng hợp
+Câu 95: Ca sĩ nào được mệnh danh "Ông hoàng nhạc Pop"?
+Michael Jackson
+Elvis Presley
+Frank Sinatra
+Prince
+A
+0
+Tổng hợp
+Câu 96: Nước nào có dân số đông nhất thế giới?
+Ấn Độ
+Trung Quốc
+Mỹ
+Indonesia
+A
+1
+Tổng hợp
+Câu 97: Bộ phim hoạt hình "Nữ hoàng băng giá" của hãng nào?
+Pixar
+DreamWorks
+Disney
+Sony
+C
+0
+Tổng hợp
+Câu 98: Số Pi (π) xấp xỉ bằng?
+2.14
+3.14
+3.16
+4.14
+B
+0
+Tổng hợp
+Câu 99: Đỉnh núi cao nhất Việt Nam là?
+Phan Xi Păng
+Bạch Mã
+Lang Biang
+Ngọc Linh
+A
+0
+Tổng hợp
+Câu 100: Ngày Nhà giáo Việt Nam là?
+20/10
+20/11
+22/12
+30/4
+B
+0
