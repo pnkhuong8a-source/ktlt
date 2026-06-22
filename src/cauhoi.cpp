@@ -31,7 +31,7 @@ void docFileCauHoi() {
     FILE* f = fopen("cauhoi.txt", "r");
     if (!f) return;
     char line[MAX_LINE];
-    while (docDongKhongRong(f, line, MAX_LINE)) {   //đọc từng khối câu hỏi
+    while (docDongKhongRong(f, line, MAX_LINE)) {  
         CauHoi ch;
         ch.id = atoi(line);     //đổi chuỗi => số
         if (!docDongKhongRong(f, ch.monHoc, MAX_MON_HOC)) break;
