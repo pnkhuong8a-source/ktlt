@@ -10,9 +10,9 @@ struct Vector {
     int capacity;   //dung lượng tối đa hiện tại (trước khi đc cấp phát động)
     //khởi tạo vector
     void khoiTao() {
-        data = NULL; // Chưa cấp phát bộ nhớ
-        size = 0;   // Chưa có phần tử nào
-        capacity = 0;      // Dung lượng ban đầu bằng 0
+        data = NULL;
+        size = 0; 
+        capacity = 0;      
     }
     //thêm phần tử vào cuối vector
     void them(const T& value) {
@@ -28,7 +28,7 @@ struct Vector {
     }
     // Xóa phần tử tại vị trí index
     void xoa(int index) {
-        if (index < 0 || index >= size) return;    // Nếu index không hợp lệ thì thoát
+        if (index < 0 || index >= size) return;  
         for (int i = index; i < size - 1; ++i)
             data[i] = data[i + 1];   // Dời các phần tử phía sau sang trái 1 vị trí
         --size;     // Giảm số lượng phần tử đi 1
@@ -37,7 +37,7 @@ struct Vector {
     int timTheoID(int id) const {
         for (int i = 0; i < size; ++i) {
             if (data[i].id == id)
-                return i;    // Nếu tìm thấy id thì trả về vị trí
+                return i;  
         }
         return -1;
     }
