@@ -61,6 +61,16 @@ Các câu hỏi cách nhau bởi một dòng trắng.
 - Chương trình không sử dụng `std::vector`, `std::list`, `std::sort`, … mà tự cài đặt cấu trúc `Vector`, thuật toán tìm kiếm tuyến tính, sắp xếp nổi bọt, Fisher–Yates shuffle.  
 - File dữ liệu `.txt` được lưu cùng thư mục với file thực thi. Khi chạy lần đầu, các file này sẽ được tạo mới.  
 - Mặc định hệ thống đã có tài khoản giáo viên `admin/admin`. Học sinh phải đăng ký trước khi đăng nhập.
+- Chạy nhanh bằng GitHub Codespaces
+
+Nếu không muốn cài đặt g++, bạn vẫn có thể biên dịch và chạy chương trình trực tiếp trên trình duyệt nhờ Codespaces.
+
+1. Nhấn **<> Code** → chọn tab **Codespaces** → **Create codespace on main**.
+2. Đợi môi trường khởi động.
+3. Mở Terminal trong Codespace, gõ:
+   ```bash
+   g++ -o tracnghiem src/*.cpp -Iinclude
+   ./tracnghiem
 
 ---
 
