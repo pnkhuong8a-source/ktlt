@@ -1,53 +1,3 @@
-/*file main.cpp đóng vai trò là điểm bắt đầu của toàn bộ hệ thống thi trắc nghiệm. Nó điều phối các module:
-Quản lý câu hỏi
-Quản lý đề thi
-Quản lý người dùng
-Quản lý kết quả
-
-Các kỹ thuật lập trình đã sử dụng
-1. Modular Programming (Lập trình module)
-Chia thành nhiều file:
-cauhoi.cpp
-dethi.cpp
-nguoidung.cpp
-ketqua.cpp
-main.cpp
-=> Giúp dễ bảo trì.
-2. Vector Template tự cài đặt
-Vector<CauHoi>
-Vector<DeThi>
-Vector<NguoiDung>
-Vector<KetQua>
-3. Quản lý bộ nhớ động
-khoiTao()
-giaiPhong()
-4. File Persistence
-Dữ liệu tồn tại sau khi tắt chương trình.
-cauhoi.txt
-dethi.txt
-nguoidung.txt
-ketqua.txt
-5. Phân quyền người dùng (Role-Based Access Control)
-0 = Giáo viên
-1 = Học sinh
-=> Mỗi vai trò có menu riêng.
-6. Sinh số ngẫu nhiên
-srand(time(NULL));
-rand();
-=> Dùng để trộn đề hoặc câu hỏi.
-7. Truyền tham chiếu
-int& vaiTro
-=> Cho phép hàm đăng nhập trả lại quyền người dùng.
-8. Menu hướng sự kiện (Menu-driven CLI)
-Toàn bộ chương trình hoạt động theo mô hình:
-Hiển thị menu
-      ↓
-Người dùng chọn
-      ↓
-Gọi chức năng tương ứng
-      ↓
-Quay lại menu
-*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -81,14 +31,13 @@ int main() {
     docFileDeThi();
     docFileNguoiDung();
     docFileKetQua();
-    //tạo tài khoản giáo viên
+    //tạo tài khoản giáo viên admin/admin
     if (dsNguoiDung.size == 0) {
         NguoiDung gv;
         strcpy(gv.username, "admin");
         strcpy(gv.password, "admin");
         gv.vaiTro = 0;
         dsNguoiDung.them(gv);
-        //cout << "Da tao tai khoan giao vien mac dinh: admin/admin\n";
     }
 
     char username[MAX_USERNAME];
