@@ -42,14 +42,14 @@ void docFileNguoiDung() {
 //Tạo tài khoản học sinh mới
 void dangKyHocSinh() {
     NguoiDung nd;
-    cout << "\n--- DANG KY TAI KHOAN HOC SINH ---\n";
-    cout << "Nhap username: ";
+    cout << "\n--- ĐĂNG KÝ TÀI KHOẢN HỌC SINH ---\n";
+    cout << "Nhập username: ";
     cin.getline(nd.username, MAX_USERNAME);
-    cout << "Nhap password: ";
+    cout << "Nhập password: ";
     cin.getline(nd.password, MAX_PASSWORD);
     //Kiểm tra trùng tài khoản
     if (dsNguoiDung.timUser(nd.username) != -1) {
-        cout << "Username da ton tai.\n";
+        cout << "Username đã tồn tại.\n";
         return;
     }
     nd.vaiTro = 1;  //Gán vai trò
@@ -60,7 +60,7 @@ void dangKyHocSinh() {
 //Kiểm tra tài khoản đăng nhập
 bool dangNhap(char* username, int& vaiTro) {
     char pass[MAX_PASSWORD];
-    cout << "\n--- DANG NHAP ---\n";
+    cout << "\n--- ĐĂNG NHẬP ---\n";
     cout << "Username: ";
     cin.getline(username, MAX_USERNAME);
     cout << "Password: ";
