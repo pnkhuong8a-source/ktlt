@@ -2,6 +2,7 @@
 #include <cstring>
 #include <cstdio>
 #include <ctime>
+#include <climits> 
 #include "dethi.h"
 #include "cauhoi.h"
 #include "utility.h"
