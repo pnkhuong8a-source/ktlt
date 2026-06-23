@@ -1,1 +1,4 @@
 admin admin 0
+meme me 1
+pnk 123 1
+hocsinh 1 1
