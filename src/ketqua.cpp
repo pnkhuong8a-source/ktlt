@@ -115,8 +115,9 @@ void thiTracNghiem(const char* username) {
         }
         dapAnDungMoi[i] = dapDungMoi;
         cout << "Câu " << i+1 << ": " << ch->noiDung << "\n";
-        for (int j = 0; j < 4; ++j)
+        for (int j = 0; j < 3; ++j)
             cout << char('A'+j) << ". " << ch->dapAn[indices[j]] << "\n";
+        cout << char('A'+3) << ". " << ch->dapAn[indices[3]];
         cout << "Trả lời (A/B/C/D/-): ";
         char tl = '-';
         bool done = false;
