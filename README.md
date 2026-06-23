@@ -9,6 +9,7 @@ Bài tập lớn môn Kỹ thuật lập trình – xây dựng chương trình 
 | Giáo viên | admin    | admin    |
 | Học sinh  | *(tự đăng ký)* | |
 
+Có thể sử dụng tài khoản mẫu cho học sinh với username: hocsinh và password: 1
 ## Các chức năng chính
 
 **1. Quản lý người dùng**  
